@@ -2,13 +2,13 @@
 Hospitality Domain Power BI Dashboard built as part of my Data Analytics learning journey with Codebasics.
 # Hospitality Domain Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 An interactive **Hospitality Domain Dashboard** developed using **Power BI** to analyze hotel business performance and present key insights through interactive visualizations and KPIs.
 
 This project was created as part of my **Data Analytics learning journey** with Codebasics.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Power BI
 * Power Query
@@ -16,7 +16,7 @@ This project was created as part of my **Data Analytics learning journey** with 
 * Data Modeling
 * Data Visualization
 
-## 📌 Dashboard Highlights
+## Dashboard Highlights
 
 * Hotel Revenue Analysis
 * Occupancy & Booking Analysis
@@ -26,23 +26,13 @@ This project was created as part of my **Data Analytics learning journey** with 
 * Trend Analysis
 * Interactive Filters and Slicers
 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to transform hospitality data into an interactive dashboard that makes it easier to understand business performance and identify important trends and patterns.
 
-## 📈 Key Skills Demonstrated
-
-* Data Cleaning & Transformation
-* Data Modeling
-* DAX Measures
-* KPI Creation
-* Interactive Dashboard Design
-* Business Data Analysis
-* Data Visualization
-
 ## Dashboard Preview
 
-
+https://github.com/aasmin-analytics/Hospitality-Domain/blob/main/Scrn%20Shot%20Hospitality%20Domain.png
 
 ## Project Files
 
@@ -58,5 +48,5 @@ This project was completed as part of my Data Analytics learning journey with **
 **Aasmin Khatoon**
 
 Aspiring Data Analyst
-Skills: Excel | Power BI | SQL | Python
+Skills: Excel | Power BI 
 
